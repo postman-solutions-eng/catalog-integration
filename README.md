@@ -16,4 +16,5 @@ When adding an API to your catalog in the form of an API definition:
 # Example
 
 You can see this repo in practice via the GitHub pages link below:
+
 https://postman-solutions-eng.github.io/catalog-integration/
