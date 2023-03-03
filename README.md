@@ -12,3 +12,8 @@ When adding an API to your catalog in the form of an API definition:
 - add it to Postman's catalog (Private API Network)
 - spin up or use an existing Postman Workspace for this API
 - create a mock server that reflects the provided API definition
+
+# Example
+
+You can see this repo in practice via the GitHub pages link below:
+https://postman-solutions-eng.github.io/catalog-integration/
