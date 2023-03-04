@@ -6,12 +6,7 @@ This is intended to be as lightweight example as possible that isn't opinionated
 
 # Main goals of this integration
 
-When adding an API to your catalog in the form of an API definition:
-
-- create the API in Postman
-- add it to Postman's catalog (Private API Network)
-- spin up or use an existing Postman Workspace for this API
-- create a mock server that reflects the provided API definition
+To create a Postman Collection and Mock Server when adding an API to your catalog.
 
 # Understanding how it works
 
